@@ -9,7 +9,7 @@
 
 ## Demo
 
-<video src="app_view.mp4" controls width="100%"></video>
+[![Demo — click to watch](demo_thumbnail.png)](app_view.mp4)
 
 ---
 
