@@ -7,6 +7,12 @@
 
 ---
 
+## Demo
+
+<video src="app_view.mov" controls width="100%"></video>
+
+---
+
 ## Overview
 
 This project builds a **two-stage machine learning pipeline** to predict whether an American Airlines flight departing Dallas/Fort Worth (DFW) will arrive 10 or more minutes late — and if so, by how many minutes. The prediction is made entirely from pre-departure information, making it useful for operational decisions like Connect Assist holds before a flight pushes back.
