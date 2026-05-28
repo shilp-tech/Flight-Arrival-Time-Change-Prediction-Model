@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Office temp files
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (typically too large for git)
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.hdf5
+
+# Model files
+*.joblib
+*.model
