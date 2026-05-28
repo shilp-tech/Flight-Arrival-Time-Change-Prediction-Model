@@ -9,7 +9,7 @@
 
 ## Demo
 
-<video src="app_view.mov" controls width="100%"></video>
+<video src="app_view.mp4" controls width="100%"></video>
 
 ---
 
